@@ -1,3 +1,6 @@
 # Sesión activa
 
-<!-- Espacio reservado para describir la feature en curso y el plan de implementación -->
+**Feature en curso:** ninguna
+**Plan de Implementación:**
+*   (Pendiente de iniciar nueva feature)
+

@@ -45,7 +45,7 @@
         "Reporte de errores si la predicción de fuerzas no coincide con la física",
         "Validación interactiva en el navegador y creación de la guía didáctica del estudiante (con explicaciones físicas y capturas de pantalla de la interfaz)"
       ],
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": 3,
