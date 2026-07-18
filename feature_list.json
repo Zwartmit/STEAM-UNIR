@@ -58,7 +58,7 @@
         "Demostración de pérdida de energía por fricción (fase revisar)",
         "Validación interactiva en el navegador y creación de la guía didáctica del estudiante (con explicaciones físicas y capturas de pantalla de la interfaz)"
       ],
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": 4,
@@ -71,7 +71,7 @@
         "Comprobación de la segunda ley de Newton para rotación",
         "Validación interactiva en el navegador y creación de la guía didáctica del estudiante (con explicaciones físicas y capturas de pantalla de la interfaz)"
       ],
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": 5,
@@ -84,7 +84,7 @@
         "Visualización de la elipse orbital",
         "Validación interactiva en el navegador y creación de la guía didáctica del estudiante (con explicaciones físicas y capturas de pantalla de la interfaz)"
       ],
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": 6,
@@ -97,7 +97,7 @@
         "Verificación de la relación entre longitud del péndulo y periodo",
         "Validación interactiva en el navegador y creación de la guía didáctica del estudiante (con explicaciones físicas y capturas de pantalla de la interfaz)"
       ],
-      "status": "pending"
+      "status": "done"
     }
   ]
 }

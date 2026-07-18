@@ -2,5 +2,4 @@
 
 **Feature en curso:** ninguna
 **Plan de Implementación:**
-*   (Pendiente de iniciar nueva feature)
-
+*   (Todas las features han sido completadas)
